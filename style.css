@@ -1,0 +1,98 @@
+.text-center{
+    text-align: left;
+}
+
+
+
+
+.spread-col{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.image-div{
+    background-color: white;
+    height: 100%;
+}
+.img{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+}
+
+.large-img{
+    object-fit:cover;
+    width:95%;
+    height: 90%;
+}
+
+.opening-text{
+    padding: 20% 17%;
+    font-weight: 500;
+    
+}
+
+.feature{
+    padding: 1.5rem;
+}
+
+.feature p{
+    margin: 1.5rem 1rem;
+}
+
+.website-spread{
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    margin-top: 3.5rem;
+}
+
+.text-spread{
+    margin: 7rem 0;
+    height: auto;
+    background-color: rgb(232, 232, 250);
+}
+
+
+.title-text {
+    padding: 5rem;
+    padding-left: 7rem;
+}
+
+.para-text{
+    padding: 5rem;
+    padding-left: 0;
+}
+
+.subtitle{
+    font-variant: small-caps;
+    margin-top: 1rem;
+}
+
+.large-img-spread{
+    height: 70vh;
+}
+
+.blog-footer{
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+
+}
+
+.cards{
+    text-align: center;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    margin-bottom: 7rem;
+}
+
+.card{
+    margin: auto;
+}
